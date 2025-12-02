@@ -1,0 +1,192 @@
+Report Generated on Tue Sep 16 03:27:04 MYT 2025
+Analysed Report:
+----------------------------------
+Total Appointments: 1
+  - Pending: 0
+  - Completed: 0
+  - Cancelled: 0
+Total Feedbacks/Comments: 1
+----------------------------------
+
+----------------------------------
+
+Report Generated on Tue Sep 16 20:08:08 MYT 2025
+Analysed Report:
+----------------------------------
+Total Appointments: 3
+  - Pending: 0
+  - Completed: 1
+  - Cancelled: 0
+Total Feedbacks/Comments: 1
+----------------------------------
+
+----------------------------------
+
+Report Generated on Wed Sep 17 00:48:38 MYT 2025
+Analysed Report:
+----------------------------------
+Total Appointments: 3
+  - Pending: 0
+  - Completed: 1
+  - Cancelled: 0
+Total Feedbacks/Comments: 1
+----------------------------------
+
+----------------------------------
+
+Report Generated on Wed Sep 17 01:04:46 MYT 2025
+Analysed Report:
+----------------------------------
+Total Appointments: 3
+  - Pending: 0
+  - Completed: 1
+  - Cancelled: 0
+Total Feedbacks/Comments: 1
+----------------------------------
+
+----------------------------------
+
+Report Generated on Wed Sep 17 15:47:11 MYT 2025
+Analysed Report:
+----------------------------------
+Total Appointments: 3
+  - Pending: 0
+  - Completed: 1
+  - Cancelled: 0
+Total Feedbacks/Comments: 1
+----------------------------------
+
+----------------------------------
+
+Report Generated on Wed Sep 17 15:47:15 MYT 2025
+Analysed Report:
+----------------------------------
+Total Appointments: 3
+  - Pending: 0
+  - Completed: 1
+  - Cancelled: 0
+Total Feedbacks/Comments: 1
+----------------------------------
+
+----------------------------------
+
+Report Generated on Wed Sep 17 15:51:47 MYT 2025
+Analysed Report:
+----------------------------------
+Total Appointments: 3
+  - Pending: 0
+  - Completed: 1
+  - Cancelled: 0
+Total Feedbacks/Comments: 1
+----------------------------------
+
+----------------------------------
+
+Report Generated on Wed Sep 17 15:51:57 MYT 2025
+Analysed Report:
+----------------------------------
+Total Appointments: 3
+  - Pending: 0
+  - Completed: 1
+  - Cancelled: 0
+Total Feedbacks/Comments: 1
+----------------------------------
+
+----------------------------------
+
+Report Generated on Wed Sep 17 16:08:20 MYT 2025
+Analysed Report:
+----------------------------------
+Total Appointments: 3
+  - Pending: 0
+  - Completed: 1
+  - Cancelled: 0
+Total Feedbacks/Comments: 2
+----------------------------------
+
+----------------------------------
+
+Report Generated on Wed Sep 17 23:30:42 MYT 2025
+Analysed Report:
+----------------------------------
+Total Appointments: 3
+  - Pending: 1
+  - Completed: 1
+  - Cancelled: 0
+Total Feedbacks/Comments: 2
+----------------------------------
+
+----------------------------------
+
+Report Generated on Thu Sep 18 12:37:29 MYT 2025
+Analysed Report:
+----------------------------------
+Total Appointments: 3
+  - Pending: 0
+  - Completed: 1
+  - Cancelled: 0
+Total Feedbacks/Comments: 2
+----------------------------------
+
+----------------------------------
+
+Report Generated on Thu Sep 18 12:53:49 MYT 2025
+Analysed Report:
+----------------------------------
+Total Appointments: 4
+  - Pending: 0
+  - Completed: 2
+  - Cancelled: 0
+Total Feedbacks/Comments: 2
+----------------------------------
+
+----------------------------------
+
+Report Generated on Sun Sep 21 10:44:44 MYT 2025
+Analysed Report:
+----------------------------------
+Total Appointments: 5
+  - Pending: 0
+  - Completed: 3
+  - Cancelled: 0
+Total Feedbacks/Comments: 2
+----------------------------------
+
+----------------------------------
+
+Report Generated on Sun Sep 21 10:44:46 MYT 2025
+Analysed Report:
+----------------------------------
+Total Appointments: 5
+  - Pending: 0
+  - Completed: 3
+  - Cancelled: 0
+Total Feedbacks/Comments: 2
+----------------------------------
+
+----------------------------------
+
+Report Generated on Sun Sep 21 11:19:03 MYT 2025
+Analysed Report:
+----------------------------------
+Total Appointments: 6
+  - Pending: 2
+  - Completed: 3
+  - Cancelled: 0
+Total Feedbacks/Comments: 2
+----------------------------------
+
+----------------------------------
+
+Report Generated on Sun Sep 21 12:23:58 MYT 2025
+Analysed Report:
+----------------------------------
+Total Appointments: 7
+  - Pending: 2
+  - Completed: 4
+  - Cancelled: 0
+Total Feedbacks/Comments: 2
+----------------------------------
+
+----------------------------------
+

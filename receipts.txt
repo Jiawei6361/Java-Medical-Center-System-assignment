@@ -1,0 +1,24 @@
+=== APU Medical Centre - Receipt ===
+Receipt ID: P001
+Appointment ID: A001
+Customer ID: C002
+Doctor ID: D001
+Amount Paid: 100.00
+Thank you for using APU Medical Centre.
+=== END OF RECEIPT ===
+=== APU Medical Centre - Receipt ===
+Receipt ID: P002
+Appointment ID: A002
+Customer ID: C002
+Doctor ID: D001
+Amount Paid: 200.00
+Thank you for using APU Medical Centre.
+=== END OF RECEIPT ===
+=== APU Medical Centre - Receipt ===
+Receipt ID: P003
+Appointment ID: A003
+Customer ID: C002
+Doctor ID: D001
+Amount Paid: 300.00
+Thank you for using APU Medical Centre.
+=== END OF RECEIPT ===

@@ -1,0 +1,4 @@
+F001,A001,D001,C002,eat more
+F002,A002,D001,C002,drink more
+F003,A003,D001,C002,do too much assignment
+F004,A006,D001,C004,more exercise

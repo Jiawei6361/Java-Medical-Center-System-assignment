@@ -1,0 +1,9 @@
+D001,Doctor,mim,1234,Female,mim@gmail.com,0132323234,20
+S001,Staff,Tara,1234,Female,Tara@gmail.com,0167382093,20
+M001,Manager,Jiawei,6361,Male,Jiawei@gmail.com,0162972891,20
+C002,Customer,maria,1234,Female,maria23@gmail.com,0162738173,20
+C003,Customer,sanjeev,1234,Male,sanjiga@gmail.com,999,20
+D002,Doctor,jonny sin,1234,Male,jonny@gmaol.com,0166969069,20
+D003,Doctor,sam,4343,Male,sam@gmail.com,0168994532,21
+C004,Customer,Peter,5656,male,peter@gmail.com,017878729384,32
+C005,Customer,sam,2323,male,sam @yahoo.com,01343536747,19
